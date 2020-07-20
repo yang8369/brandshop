@@ -8,6 +8,7 @@ class BrandshopApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("lilei.lilei ");
     }
 
 }
