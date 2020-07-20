@@ -8,7 +8,7 @@ class BrandshopApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println("lilei.lilei ");
+        System.out.println("lilei.lilei -sadhn dnsandn,saca");
     }
 
 }
